@@ -1,4 +1,4 @@
-package client
+package prometheus
 
 import (
 	"encoding/base64"
