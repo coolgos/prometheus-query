@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	prometheus "github.com/ryotarai/prometheus-query/client"
+	prometheus "github.com/coolgos/prometheus-query/client"
 	"github.com/ymotongpoo/datemaki"
 )
 

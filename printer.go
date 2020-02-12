@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	prometheus "github.com/ryotarai/prometheus-query/client"
+	prometheus "github.com/coolgos/prometheus-query/client"
 )
 
 func printResp(resp *prometheus.QueryRangeResponse, format string) error {

@@ -5,7 +5,7 @@ CLI client to query Prometheus
 ## Installation
 
 ```
-$ go get -u github.com/ryotarai/prometheus-query
+$ go get -u github.com/coolgos/prometheus-query
 ```
 
 ## Usage
